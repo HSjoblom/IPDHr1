@@ -6,7 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'TeamHarmonie' # Only 10 chars displayed.
+team_name = 'HarmonieSjoblom' # Only 10 chars displayed.
 strategy_name = 'Collude until something happens'
 strategy_description = '''If the person is trustful, I will always collude unless 
 betrayed. If their last play was betray, then I will betray the next time. If 
